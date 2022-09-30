@@ -17,7 +17,6 @@ ArchiTechs
 
 <img align="right" alt="ArchiTechs" src = "https://github.com/Architechs-IITGOA/Resources/blob/main/Images/2.jpg"></p>
 
-<br>
 
 **_‘Archi-‘, taken from Architect represents the designing aspect._**
 
