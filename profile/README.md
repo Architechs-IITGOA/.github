@@ -5,13 +5,17 @@ ArchiTechs
 </p>
 
 [![ArchiTechs IIT Goa GitHub Banner](https://github.com/Architechs-IITGOA/Resources/blob/main/Images/Architechs%201-01.png)](https://github.com/Architechs-IITGOA)
-
 ![Organizations Views](https://komarev.com/ghpvc/?username=Architechs-IITGOA&label=Organizations+Views!)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/company/architechs-iit-goa/)
 ![GitHub followers](https://img.shields.io/github/followers/Architechs-IITGOA?style=social)
 [![GitHub forks](https://img.shields.io/github/forks/Architechs-IITGOA/.github)](https://github.com/Architechs-IITGOA/.github/network)
 [![GitHub stars](https://img.shields.io/github/stars/Architechs-IITGOA/.github)](https://github.com/Architechs-IITGOA/.github/stargazers)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://www.iitgoa.ac.in/~students/Clubs/STAB/STAB/index.html#home)
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Architect+works+on+building;Interactive+Websites+and+Apps;Encourage+young+and+creative+minds!)](https://git.io/typing-svg)
+<br>
 
 <hr>
 <a href = "https://www.iitgoa.ac.in/~students/Clubs/STAB/STAB/index.html#about&clubs">
