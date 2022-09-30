@@ -14,9 +14,9 @@ ArchiTechs
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://www.iitgoa.ac.in/~students/Clubs/STAB/STAB/index.html#home)
 
 <hr>
-
+<a href = "https://www.iitgoa.ac.in/~students/Clubs/STAB/STAB/index.html#about&clubs">
 <img align="right" alt="ArchiTechs" src = "https://github.com/Architechs-IITGOA/Resources/blob/main/Images/2.jpg"></p>
-
+</a>
 
 **_‘Archi-‘, taken from Architect represents the designing aspect._**
 
@@ -26,6 +26,8 @@ ArchiTechs
 
 **_ArchiTechs team ensures the practicality and is responsible for making the apps and sites operational for users._**
 
+<br>
+<br>
 
 
 
@@ -40,15 +42,10 @@ ArchiTechs
 
 
 
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
